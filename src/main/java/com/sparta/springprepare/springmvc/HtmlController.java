@@ -1,4 +1,4 @@
-package com.sparta.springprepare.springmvc.controller;
+package com.sparta.springprepare.springmvc;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
